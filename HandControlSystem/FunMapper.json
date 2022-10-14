@@ -1,0 +1,32 @@
+[
+  {
+    "FunName": 0,
+    "DataTypeEnum": 0,
+    "OperationTypeEnum": 1,
+    "Variable": "DB1.DBX0.1",
+    "FirstClickOrDownValue": 1,
+    "SecondClickOrUpValue": 0,
+    "LastSendToPlcValue": null,
+    "ReadOnly": false
+  },
+  {
+    "FunName": 5,
+    "DataTypeEnum": 6,
+    "OperationTypeEnum": 0,
+    "Variable": "DB1.DBD2",
+    "FirstClickOrDownValue": 1.1,
+    "SecondClickOrUpValue": 2.2,
+    "LastSendToPlcValue": null,
+    "ReadOnly": false
+  },
+  {
+    "FunName": 6,
+    "DataTypeEnum": 4,
+    "OperationTypeEnum": 0,
+    "Variable": "DB1.DBW14",
+    "FirstClickOrDownValue": 7,
+    "SecondClickOrUpValue": 8,
+    "LastSendToPlcValue": null,
+    "ReadOnly": false
+  }
+]
